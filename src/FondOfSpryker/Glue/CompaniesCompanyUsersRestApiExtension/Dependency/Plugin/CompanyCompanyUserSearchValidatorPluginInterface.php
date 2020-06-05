@@ -1,10 +1,10 @@
 <?php
 
-namespace FondOfSpryker\Zed\CompaniesCompanyUsersRestApiExtension\Dependency\Plugin;
+namespace FondOfSpryker\Glue\CompaniesCompanyUsersRestApiExtension\Dependency\Plugin;
 
 use Generated\Shared\Transfer\CompanyUserTransfer;
 
-interface CompanyCompanyUserSearchValidatePluginInterface
+interface CompanyCompanyUserSearchValidatorPluginInterface
 {
     /**
      * Specification:
